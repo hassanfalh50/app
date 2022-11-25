@@ -96,7 +96,7 @@ $("#getlink").on("click", function(){
 		// show count down
 		timer.html(`<div class="countdown">
 		<span class="timer">${delay}</span>
-		<span class="seconds">ثواني</span>
+		<span class="seconds">عدد الثواني</span>
 		</div>`);
 
 		start = 1;
